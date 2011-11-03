@@ -1,3 +1,9 @@
+# revision 24268
+# category Package
+# catalog-ctan /macros/latex/contrib/caption
+# catalog-date 2011-10-11 18:30:36 +0200
+# catalog-license lppl
+# catalog-version 3.2c
 Name:		texlive-caption
 Version:	3.2c
 Release:	1
@@ -73,6 +79,7 @@ capt-of do. The package supersedes caption2.
 %doc %{_texmfdistdir}/source/latex/caption/caption3.dtx
 %doc %{_texmfdistdir}/source/latex/caption/ltcaption.dtx
 %doc %{_texmfdistdir}/source/latex/caption/subcaption.dtx
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -83,3 +90,5 @@ capt-of do. The package supersedes caption2.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
