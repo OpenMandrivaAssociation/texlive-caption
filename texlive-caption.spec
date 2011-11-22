@@ -1,11 +1,11 @@
-# revision 24525
+# revision 24571
 # category Package
 # catalog-ctan /macros/latex/contrib/caption
-# catalog-date 2011-11-06 19:24:15 +0100
+# catalog-date 2011-11-10 13:22:20 +0100
 # catalog-license lppl
-# catalog-version 3.2d
+# catalog-version 3.2e
 Name:		texlive-caption
-Version:	3.2d
+Version:	3.2e
 Release:	1
 Summary:	Customising captions in floating environments
 Group:		Publishing
