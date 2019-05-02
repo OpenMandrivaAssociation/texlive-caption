@@ -6,7 +6,7 @@
 # catalog-version 2013-05-12
 Name:		texlive-caption
 Epoch:		1
-Version:	20181009
+Version:	20190228
 Release:	1
 Summary:	Customising captions in floating environments
 Group:		Publishing
