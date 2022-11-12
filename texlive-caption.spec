@@ -6,9 +6,9 @@ Summary:	Customising captions in floating environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/caption
 License:	LPPL1.3
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.r62757.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.doc.r62757.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.source.r62757.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
