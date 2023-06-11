@@ -1,7 +1,7 @@
 Name:		texlive-caption
 Epoch:		1
-Version:	62757
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Customising captions in floating environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/caption
