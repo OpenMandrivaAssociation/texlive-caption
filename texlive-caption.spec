@@ -4,7 +4,7 @@ Version:	68425
 Release:	1
 Summary:	Customising captions in floating environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/caption
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/caption
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caption.doc.r%{version}.tar.xz
